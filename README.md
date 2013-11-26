@@ -1,5 +1,4 @@
-MyZshConfig
-===========
+#zsh-theme
 
 my .zshrc and custom oh-my-zsh theme
 
